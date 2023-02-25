@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600&display=swap');
+
+* {
+    font-family: 'Raleway', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1829%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='url(%23SvgjsRadialGradient1830)'%3e%3c/rect%3e%3cpath d='M885.758%2c398.561C939.72%2c400.333%2c988.689%2c367.975%2c1015.541%2c321.135C1042.247%2c274.549%2c1042.486%2c217.715%2c1016.304%2c170.833C989.441%2c122.731%2c940.827%2c90.434%2c885.758%2c88.742C827.616%2c86.955%2c767.22%2c110.673%2c740.535%2c162.36C715.369%2c211.106%2c741.21%2c266.337%2c769.943%2c313.07C796.879%2c356.881%2c834.357%2c396.873%2c885.758%2c398.561' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M990.397%2c279.743C1024.395%2c280.628%2c1060.114%2c271.014%2c1077.767%2c241.944C1095.978%2c211.955%2c1092.125%2c173.217%2c1072.914%2c143.859C1055.346%2c117.012%2c1022.479%2c108.087%2c990.397%2c108.426C959.032%2c108.757%2c927.333%2c118.888%2c910.842%2c145.57C893.558%2c173.536%2c893.799%2c209.312%2c910.566%2c237.591C927.015%2c265.333%2c958.156%2c278.904%2c990.397%2c279.743' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M446.05795031435287 102.82378384730694L599.7288063617925 129.92010191703707 473.15426838408297-50.84707220013266z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M281.127%2c288.268C309.721%2c287.005%2c335.036%2c272.289%2c350.505%2c248.207C367.529%2c221.706%2c376.817%2c189.195%2c362.93%2c160.923C347.495%2c129.498%2c316.099%2c105.316%2c281.127%2c106.962C248.116%2c108.516%2c227.517%2c139.05%2c211.66%2c168.045C196.653%2c195.487%2c184.606%2c227.763%2c200.254%2c254.844C215.896%2c281.914%2c249.893%2c289.648%2c281.127%2c288.268' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1437.67%2c524.061C1481.65%2c521.669%2c1513.286%2c487.09%2c1535.523%2c449.07C1558.046%2c410.56%2c1575.897%2c364.283%2c1553.781%2c325.538C1531.536%2c286.566%2c1482.542%2c277.264%2c1437.67%2c277.637C1393.615%2c278.004%2c1348.746%2c290.424%2c1324.858%2c327.443C1299%2c367.515%2c1295.729%2c419.455%2c1319.463%2c460.821C1343.299%2c502.364%2c1389.846%2c526.662%2c1437.67%2c524.061' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M957.901%2c443.001C989.16%2c443.698%2c1021.172%2c430.609%2c1035.704%2c402.924C1049.491%2c376.658%2c1036.988%2c346.595%2c1021.915%2c321.046C1007.169%2c296.053%2c986.878%2c272.603%2c957.901%2c271.05C926.501%2c269.368%2c896.16%2c286.051%2c880.79%2c313.484C865.728%2c340.366%2c870.122%2c373.105%2c885.886%2c399.582C901.255%2c425.396%2c927.865%2c442.331%2c957.901%2c443.001' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1829'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3cradialGradient cx='100%25' cy='50%25' r='1466.97' gradientUnits='userSpaceOnUse' id='SvgjsRadialGradient1830'%3e%3cstop stop-color='rgba(133%2c 165%2c 197%2c 1)' offset='0'%3e%3c/stop%3e%3cstop stop-color='rgba(40%2c 42%2c 82%2c 1)' offset='1'%3e%3c/stop%3e%3c/radialGradient%3e%3cstyle%3e %40keyframes float1 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-10px%2c 0)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float1 %7b animation: float1 5s infinite%3b %7d %40keyframes float2 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-5px%2c -5px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float2 %7b animation: float2 4s infinite%3b %7d %40keyframes float3 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(0%2c -10px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float3 %7b animation: float3 6s infinite%3b %7d %3c/style%3e%3c/defs%3e%3c/svg%3e");
+}
+.container {
+    max-width: 480px;
+    position: relative;
+    width: 100%;
+    background-color: aliceblue;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    padding: 25px;
+    margin: 85px auto 0;
+    
+}
+.container .input {
+    position: relative;
+    height: 65px;
+    width: 100%;
+}
+.input textarea {
+    height: 100%;
+    width: 100%;
+    outline: none;
+    border-radius: 8px;
+    padding: 20px 45px 20px 15px;
+    border: 1px solid #cccc;
+    font-size: 18px;
+    font-weight: 400;
+    resize: none;
+}
+
+textarea::-webkit-scrollbar {
+    display: none;
+}
+.input .note-icon {
+    position: absolute;
+    top: 50%;
+    right: 15px;
+    transform: translateY(-50%);
+    pointer-events: none;
+    font-size: 25px;
+    color:rgba(31, 25, 25, 0.623);
+
+}
+.input textarea:focus ~ .note-icon {
+    color: #4070f4;
+}
+.container .todolist {
+    max-height: 380px;
+    overflow-y: auto;
+    margin-top: 20px;
+    padding-right: 10px;
+}
+.todolist .list {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    background-color: #f2f2f2;
+    border-radius: 8px;
+    cursor: pointer;
+    position: relative;
+    padding: 20px 15px;
+    margin-top: 10px;
+}
+.todolist .list .task {
+    margin: 0 30px 0 15px;
+    word-break: break-all;
+}
+.list input:checked ~ .task {
+    text-decoration: line-through;
+}
+.todolist .list input {
+    height: 16px;
+    width: 16px;
+    accent-color: #4070f4;
+    pointer-events: none;
+}
+
+.container .pending-tasks {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 25px;
+}
+.pending-tasks {
+    color: rgb(53, 53, 53);
+}
+.pending-tasks .clear-button {
+    padding: 6px 12px;
+    outline: none;
+    border: none;
+    background: #4070f4;
+    color: #fff;
+    font-size: 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    pointer-events: none;
+}
+.clear-button:hover {
+    background-color: rgba(1, 80, 252, 0.911);
+}
